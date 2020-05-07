@@ -6,8 +6,5 @@
  * Time: 2:22 PM
  */
 
-echo "Hello World edited local";
-echo "Hello World edited live";
-echo "qa cool feature";
-echo "master branch"
+echo "cherry pick test";
 ?>
